@@ -10,3 +10,4 @@ if 2*c==k:
     print("Yes")
 else:
     print("No")
+    
